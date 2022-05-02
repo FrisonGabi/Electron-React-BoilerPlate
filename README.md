@@ -5,11 +5,13 @@
 ### yarn electron-dev 
 run the app in dev mode
 
-### yarn electron:package:win 
+### yarn electron: package:win 
 create installer for windows
 
-### yarn electron:package:mac
+### yarn electron: package:mac
 create installer for mac
 
-### yarn electron:package:linux
+### yarn electron: package:linux
 create installer for linux
+
+#no space between : package
